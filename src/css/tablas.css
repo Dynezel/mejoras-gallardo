@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid white;
+}
+.restante {
+    color:rgb(227, 135, 15)
+}
+.recaudado {
+    color:green;
+}
+.gastado {
+    color: red;
+}
+.actual {
+    color:gold;
+}
