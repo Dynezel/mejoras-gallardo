@@ -78,13 +78,18 @@ export default function Febrero() {
         <td>20.000</td>
         <td>07/02</td>
       </tr>
+      <tr>
+        <td>Cristian David Anaya</td>
+        <td>25.000</td>
+        <td>07/02</td>
+      </tr>
       <tr className="restante">
         <td>Restante Enero:</td>
         <td>575.000</td>
       </tr>
       <tr className="recaudado">
         <td>Recaudado Febrero:</td>
-        <td>345.000</td>
+        <td>370.000</td>
       </tr>
       <tr className="gastado">
         <td>Gastado Febrero:</td>
@@ -92,7 +97,7 @@ export default function Febrero() {
       </tr>
       <tr className="actual">
         <td>Dinero Total:</td>
-        <td>920.000</td>
+        <td>945.000</td>
       </tr>
     </table>
     </>
