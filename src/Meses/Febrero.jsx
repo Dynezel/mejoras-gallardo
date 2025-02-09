@@ -97,17 +97,19 @@ export default function Febrero() {
         <td>Restante Enero:</td>
         <td>575.000</td>
       </tr>
+      { /*SIEMPRE ACTUALIZAR DESPUES DE CUALQUIER PAGO*/ }
       <tr className="recaudado">
         <td>Recaudado Febrero:</td>
-        <td>370.000</td>
+        <td>420.000</td>
       </tr>
       <tr className="gastado">
         <td>Gastado Febrero:</td>
         <td>-</td>
       </tr>
+      { /*SIEMPRE ACTUALIZAR DESPUES DE CUALQUIER PAGO*/ }
       <tr className="actual">
         <td>Dinero Total:</td>
-        <td>945.000</td>
+        <td>995.000</td>
       </tr>
     </table>
     </>
