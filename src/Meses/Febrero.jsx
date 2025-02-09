@@ -83,6 +83,16 @@ export default function Febrero() {
         <td>25.000</td>
         <td>07/02</td>
       </tr>
+      <tr>
+        <td>Cristian Iraia, Manzana 6 Lote 16</td>
+        <td>25.000</td>
+        <td>09/02</td>
+      </tr>
+      <tr>
+        <td>Fanny Cabrera, Manzana 3 Lote 15</td>
+        <td>25.000</td>
+        <td>09/02</td>
+      </tr>
       <tr className="restante">
         <td>Restante Enero:</td>
         <td>575.000</td>
