@@ -113,6 +113,16 @@ export default function Febrero() {
         <td>30.000</td>
         <td>09/02</td>
       </tr>
+      <tr>
+        <td>Mackendy Oge, Manzana 4 Lote 10, Manzana 1 Lotes 10 y 12</td>
+        <td>20.000</td>
+        <td>10/02</td>
+      </tr>
+      <tr>
+        <td>No envió nombre ni se ve en el comprobante</td>
+        <td>25.000</td>
+        <td>10/02</td>
+      </tr>
       <tr className="restante">
         <td>Restante Enero:</td>
         <td>575.000</td>
@@ -120,7 +130,7 @@ export default function Febrero() {
       { /*SIEMPRE ACTUALIZAR DESPUES DE CUALQUIER PAGO*/ }
       <tr className="recaudado">
         <td>Recaudado Febrero:</td>
-        <td>550.000</td>
+        <td>595.000</td>
       </tr>
       <tr className="gastado">
         <td>Gastado Febrero:</td>
@@ -129,7 +139,7 @@ export default function Febrero() {
       { /*SIEMPRE ACTUALIZAR DESPUES DE CUALQUIER PAGO*/ }
       <tr className="actual">
         <td>Dinero Total:</td>
-        <td>1.125.000</td>
+        <td>1.170.000</td>
       </tr>
     </table>
     </>
