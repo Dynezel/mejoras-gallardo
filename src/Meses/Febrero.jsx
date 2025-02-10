@@ -119,7 +119,7 @@ export default function Febrero() {
         <td>10/02</td>
       </tr>
       <tr>
-        <td>Mariela Montenegro</td>
+        <td>Mariela Montenegro, Manzana 26 Lote 18</td>
         <td>25.000</td>
         <td>10/02</td>
       </tr>
