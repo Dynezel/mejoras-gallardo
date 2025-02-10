@@ -119,7 +119,7 @@ export default function Febrero() {
         <td>10/02</td>
       </tr>
       <tr>
-        <td>No envió nombre ni se ve en el comprobante</td>
+        <td>Mariela Montenegro</td>
         <td>25.000</td>
         <td>10/02</td>
       </tr>
