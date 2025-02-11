@@ -114,7 +114,9 @@ export default function Febrero() {
         <td>09/02</td>
       </tr>
       <tr>
-        <td>Mackendy Oge, Manzana 4 Lote 10, Manzana 1 Lotes 10 y 12</td>
+        <td>Mackendy Oge, Manzana 4 Lote 10, 
+          <br/>
+          Manzana 1 Lotes 10 y 12</td>
         <td>20.000</td>
         <td>10/02</td>
       </tr>

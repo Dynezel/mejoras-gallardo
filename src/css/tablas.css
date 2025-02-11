@@ -1,5 +1,6 @@
 table, th, td {
     border: 1px solid white;
+    justify-content: center;
 }
 .restante {
     color:rgb(227, 135, 15)
