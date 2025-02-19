@@ -1,16 +1,35 @@
-table, th, td {
-    border: 1px solid white;
-    justify-content: center;
+table,
+th,
+td {
+  border: 1px solid white;
 }
 .restante {
-    color:rgb(227, 135, 15)
+  color: rgb(227, 135, 15);
 }
-.recaudado {
-    color:green;
+.ingresos {
+  color: rgb(1, 199, 1);
 }
-.gastado {
-    color: red;
+.egresos {
+  color: red;
 }
-.actual {
-    color:gold;
+.total {
+  color: rgb(255, 213, 0);
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+@media (max-width:765px){
+    .table {
+        max-width  :90vw;  
+        width      :90vw; 
+        font-size  :2vw;  
+    }
 }
