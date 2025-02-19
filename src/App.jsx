@@ -9,6 +9,8 @@ function App() {
 
   return (
     <>
+    <h2>Mejoras Gallardo</h2>
+    <h3>Mes de Febrero</h3>
       <Febrero/>
     </>
   )
