@@ -8,8 +8,8 @@ export default function Febrero() {
         <tr>
           <th>Fecha</th>
           <th>Detalles</th>
-          <th>Ingresos</th>
-          <th>Egresos</th>
+          <th className="ingresos">Ingresos</th>
+          <th className="egresos">Egresos</th>
           <th>Total</th>
         </tr>
         <tr>
