@@ -191,18 +191,39 @@ export default function Febrero() {
           <td>1.225.000</td>
         </tr>
         <tr>
-          <td>10/02</td>
+          <td>19/02</td>
           <td className="egresos">Pago del Camion</td>
           <td></td>
           <td>756.000</td>
           <td>464.000</td>
         </tr>
         <tr>
-          <td>10/02</td>
+          <td>19/02</td>
           <td className="egresos">Pago de la Motoniveladora</td>
           <td></td>
           <td>400.000</td>
           <td>64.000</td>
+        </tr>
+        <tr>
+          <td>20/02</td>
+          <td className="ingresos">Arias Fernandez Manzana 5 Lote 5</td>
+          <td>25.000</td>
+          <td></td>
+          <td>89.000</td>
+        </tr>
+        <tr>
+          <td>20/02</td>
+          <td className="ingresos">Moises Ganoza Manzana 8 Lotes 4 y 5</td>
+          <td>50.000</td>
+          <td></td>
+          <td>139.000</td>
+        </tr>
+        <tr>
+          <td>20/02</td>
+          <td className="ingresos">Julian Oviedo Manzana 14 Lote 4</td>
+          <td>20.000</td>
+          <td></td>
+          <td>159.000</td>
         </tr>
       </table>
     </div>
