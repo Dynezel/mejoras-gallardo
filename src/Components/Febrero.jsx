@@ -185,7 +185,7 @@ export default function Febrero() {
         </tr>
         <tr>
           <td>10/02</td>
-          <td className="ingresos">Noelia Diaz Manzana 26 Lote 8</td>
+          <td className="ingresos">Noelia Diaz Manzana, 26 Lote 8</td>
           <td>25.000</td>
           <td></td>
           <td>1.225.000</td>
@@ -206,24 +206,38 @@ export default function Febrero() {
         </tr>
         <tr>
           <td>20/02</td>
-          <td className="ingresos">Arias Fernandez Manzana 5 Lote 5</td>
+          <td className="ingresos">Arias Fernandez, Manzana 5 Lote 5</td>
           <td>25.000</td>
           <td></td>
           <td>89.000</td>
         </tr>
         <tr>
           <td>20/02</td>
-          <td className="ingresos">Moises Ganoza Manzana 8 Lotes 4 y 5</td>
+          <td className="ingresos">Moises Ganoza Manzana, 8 Lotes 4 y 5</td>
           <td>50.000</td>
           <td></td>
           <td>139.000</td>
         </tr>
         <tr>
           <td>20/02</td>
-          <td className="ingresos">Julian Oviedo Manzana 14 Lote 4</td>
+          <td className="ingresos">Julian Oviedo, Manzana 14 Lote 4</td>
           <td>20.000</td>
           <td></td>
           <td>159.000</td>
+        </tr>
+        <tr>
+          <td>22/02</td>
+          <td className="ingresos">Carlos Villalva, Manzana 17 lote 19</td>
+          <td>25.000</td>
+          <td></td>
+          <td>184.000</td>
+        </tr>
+        <tr>
+          <td>25/02</td>
+          <td className="ingresos">Marcela Barrionuevo, Manzana 25 lote17 y 18</td>
+          <td>25.000</td>
+          <td></td>
+          <td>209.000</td>
         </tr>
       </table>
     </div>
