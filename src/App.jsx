@@ -1,17 +1,23 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Febrero from './Components/Febrero'
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import Marzo from './Components/Marzo'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <h2>Mejoras Gallardo</h2>
-    <h3>Mes de Febrero</h3>
-      <Febrero/>
+      <BrowserRouter>
+      <Link to = '/febrero'> Mes de Febrero </Link>
+      <br/>
+      <Link to = '/marzo'> Mes de Marzo </Link>
+        <Routes>
+          <Route path='/febrero' element={<Febrero />} />
+          <Route path='/marzo' element={<Marzo/>} />
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }
