@@ -1,6 +1,8 @@
 .navbar {
     display:block;
+    padding-bottom: 3%;
     border-bottom: 1px solid yellow;
+    
 }
 
 .enlace-resumen {
