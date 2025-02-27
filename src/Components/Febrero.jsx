@@ -4,6 +4,8 @@ import "../css/tablas.css";
 export default function Febrero() {
   return (
     <div>
+      <h2>Mejoras Gallardo</h2>
+      <h3>Mes de Febrero</h3>
       <table>
         <tr>
           <th>Fecha</th>
@@ -163,8 +165,8 @@ export default function Febrero() {
         </tr>
         <tr>
           <td>10/02</td>
-          <td className="ingresos">Mackendy Oge, Manzana 4 Lote 10, <br/> 
-          Manzana 1 Lotes 10 y 12</td>
+          <td className="ingresos">Mackendy Oge, Manzana 4 Lote 10, <br />
+            Manzana 1 Lotes 10 y 12</td>
           <td>20.000</td>
           <td></td>
           <td>1.145.000</td>
