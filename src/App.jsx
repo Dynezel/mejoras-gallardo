@@ -3,7 +3,7 @@ import './App.css'
 import Febrero from './Components/Febrero'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import Marzo from './Components/Marzo'
-import Inicio from './Components/Inicio'
+import Navbar from './Components/Navbar'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,9 +11,8 @@ function App() {
   return (
     <>
       <BrowserRouter>
-      
+      <Navbar/>
         <Routes>
-          <Route path='/' element= { <Inicio/> } />
           <Route path='/febrero' element={<Febrero />} />
           <Route path='/marzo' element={<Marzo/>} />
         </Routes>

@@ -242,6 +242,7 @@ export default function Febrero() {
           <td>209.000</td>
         </tr>
       </table>
+      {/*  <p className="ingresos">Total Recaudado: <u></u> </p> */}
     </div>
   );
 }
