@@ -16,7 +16,7 @@ export default function Marzo() {
                     </tr>
                 </thead>
                 <tbody>
-                    
+
                     <tr>
                         <td>26/02</td>
                         <td className="restante">Restante Febrero</td>
@@ -93,6 +93,14 @@ export default function Marzo() {
                         <td>25.000</td>
                         <td></td>
                         <td>464.000</td>
+                    </tr>
+                    <tr>
+                        <td>07/03</td>
+                        <td className="ingresos">Mariela Montenegro, Manzana 26 Lote 18</td>
+                        <td>25.000</td>
+                        <td></td>
+                        <td>489.000</td>
+
                     </tr>
                 </tbody>
             </table>
