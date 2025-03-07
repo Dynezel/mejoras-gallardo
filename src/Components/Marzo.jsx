@@ -100,7 +100,6 @@ export default function Marzo() {
                         <td>25.000</td>
                         <td></td>
                         <td>489.000</td>
-
                     </tr>
                 </tbody>
             </table>

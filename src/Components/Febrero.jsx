@@ -186,7 +186,7 @@ export default function Febrero() {
           <td>1.200.000</td>
         </tr>
         <tr>
-          <td>10/02</td>
+          <td>13/02</td>
           <td className="ingresos">Noelia Diaz Manzana, 26 Lote 8</td>
           <td>25.000</td>
           <td></td>
