@@ -151,13 +151,6 @@ export default function Marzo() {
                         <td>689.000</td>
                     </tr>
                     <tr>
-                        <td>22/03</td>
-                        <td className="ingresos">Fanny Cabrera, Manzana 3 Lote 15</td>
-                        <td>25.000</td>
-                        <td></td>
-                        <td>689.000</td>
-                    </tr>
-                    <tr>
                         <td>31/03</td>
                         <td className="ingresos">Moises Ganoza, Manzana 8 Lotes 4 y 5</td>
                         <td>25.000</td>
