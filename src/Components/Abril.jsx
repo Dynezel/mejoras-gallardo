@@ -22,6 +22,7 @@ export default function Abril() {
                         <td>764.000</td>
                         <td></td>
                         <td>764.000</td>
+                        </tr>
                         <tr>
                             <td>02/04</td>
                             <td className="ingresos">
@@ -31,7 +32,6 @@ export default function Abril() {
                             <td></td>
                             <td>814.000</td>
                         </tr>
-                    </tr>
                 </tbody>
             </table>
         </div >
