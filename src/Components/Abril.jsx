@@ -26,7 +26,7 @@ export default function Abril() {
                     <tr>
                         <td>02/04</td>
                         <td className="ingresos">
-                            Pablo Silva & Isabel Gonzalez, Manzana 5 Lote 2, <br /> Manzana 7 Lote 3 y 4, y Manzana 15 Lote 7{" "}
+                        Pablo Silva & Isabel Gonzalez, Manzana 5 Lote 2, <br /> Manzana 7 Lote 3 y 4, y Manzana 15 Lote 7{" "}
                         </td>
                         <td>50.000</td>
                         <td></td>
