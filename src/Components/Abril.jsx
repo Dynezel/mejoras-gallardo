@@ -22,16 +22,23 @@ export default function Abril() {
                         <td>764.000</td>
                         <td></td>
                         <td>764.000</td>
-                        </tr>
-                        <tr>
-                            <td>02/04</td>
-                            <td className="ingresos">
-                            Pablo Silva & Isabel Gonzalez, Manzana 5 Lote 2, <br/> Manzana 7 Lote 3 y 4, y Manzana 15 Lote 7{" "}
-                            </td>
-                            <td>50.000</td>
-                            <td></td>
-                            <td>814.000</td>
-                        </tr>
+                    </tr>
+                    <tr>
+                        <td>02/04</td>
+                        <td className="ingresos">
+                            Pablo Silva & Isabel Gonzalez, Manzana 5 Lote 2, <br /> Manzana 7 Lote 3 y 4, y Manzana 15 Lote 7{" "}
+                        </td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>814.000</td>
+                    </tr>
+                    <tr>
+                        <td>04/04</td>
+                        <td className="ingresos">Arias Fernando, Manzana 5 Lote 5 </td>
+                        <td>25.000</td>
+                        <td></td>
+                        <td>839.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
