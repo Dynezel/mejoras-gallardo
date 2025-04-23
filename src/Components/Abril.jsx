@@ -46,6 +46,13 @@ export default function Abril() {
                         <td></td>
                         <td>864.000</td>
                     </tr>
+                    <tr>
+                        <td>05/04</td>
+                        <td className="ingresos">Victoria Rojas, Manzana 3 Lote 7</td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>914.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
