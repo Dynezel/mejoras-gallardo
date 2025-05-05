@@ -2,7 +2,7 @@
     display:block;
     padding-bottom: 3%;
     border-bottom: 1px solid yellow;
-    
+    color:white
 }
 
 .enlace-resumen {
@@ -11,4 +11,10 @@
 }
 select {
     font-size: 1.5em;
+}
+
+@media (prefers-color-scheme: light) { 
+    .enlace-resumen {
+        color: white;
+    }
 }
