@@ -4,7 +4,7 @@ export default function Mayo() {
   return (
     <div>
             <h2>Mejoras Gallardo</h2>
-            <h3>Mes de Abril</h3>
+            <h3>Mes de Mayo</h3>
             <table>
                 <thead>
                     <tr>
