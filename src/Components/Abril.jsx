@@ -53,6 +53,13 @@ export default function Abril() {
                         <td></td>
                         <td>914.000</td>
                     </tr>
+                    <tr>
+                        <td>30/04</td>
+                        <td className="total">TOTAL ABRIL</td>
+                        <td></td>
+                        <td></td>
+                        <td className="total">914.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
