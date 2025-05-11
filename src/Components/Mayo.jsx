@@ -17,7 +17,7 @@ export default function Mayo() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>01/04</td>
+                        <td>01/05</td>
                         <td className="restante">Restante Abril</td>
                         <td>914.000</td>
                         <td></td>
