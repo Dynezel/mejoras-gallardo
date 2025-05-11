@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import Marzo from './Components/Marzo'
 import Navbar from './Components/Navbar'
 import Abril from './Components/Abril'
+import Mayo from './Components/Mayo'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,7 @@ function App() {
           <Route path='/febrero' element={<Febrero />} />
           <Route path='/marzo' element={<Marzo/>} />
           <Route path='/abril' element={<Abril/>} />
+          <Route path="/mayo" element={<Mayo/>} />
         </Routes>
       </BrowserRouter>
     </>
