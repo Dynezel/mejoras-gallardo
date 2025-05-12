@@ -1,8 +1,8 @@
 import React from 'react'
 
 export default function Mayo() {
-  return (
-    <div>
+    return (
+        <div>
             <h2>Mejoras Gallardo</h2>
             <h3>Mes de Mayo</h3>
             <table>
@@ -65,8 +65,17 @@ export default function Mayo() {
                         <td></td>
                         <td>1.114.000</td>
                     </tr>
+                    <tr>
+                        <td>12/05</td>
+                        <td className="ingresos">
+                            Pablo Silva, Manzana 7 Lotes 3 y 4 <br /> Manzana 15 Lote7, Manzana 5 Lote 2{" "}
+                        </td>
+                        <td>75.000</td>
+                        <td></td>
+                        <td>1.189.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
-  )
+    )
 }
