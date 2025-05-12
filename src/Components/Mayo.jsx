@@ -68,7 +68,7 @@ export default function Mayo() {
                     <tr>
                         <td>12/05</td>
                         <td className="ingresos">
-                            Pablo Silva, Manzana 7 Lotes 3 y 4 <br /> Manzana 15 Lote7, Manzana 5 Lote 2{" "}
+                            Pablo Silva, Manzana 7 Lotes 3 y 4 <br /> Manzana 15 Lote 7, Manzana 5 Lote 2{" "}
                         </td>
                         <td>75.000</td>
                         <td></td>
