@@ -46,10 +46,17 @@ export default function Mayo() {
                     </tr>
                     <tr>
                         <td>11/05</td>
-                        <td className="ingresos">Claudia Mazzini, Manzana 28, lotes 7 y 9</td>
+                        <td className="ingresos">Claudia Mazzini, Manzana 28 lotes 7 y 9</td>
                         <td>25.000</td>
                         <td></td>
                         <td>1.039.000</td>
+                    </tr>
+                    <tr>
+                        <td>12/05</td>
+                        <td className="ingresos">Delgado Maria, Manzana 22 Lote 11</td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>1.089.000</td>
                     </tr>
                 </tbody>
             </table>
