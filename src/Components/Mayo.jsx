@@ -58,6 +58,13 @@ export default function Mayo() {
                         <td></td>
                         <td>1.089.000</td>
                     </tr>
+                    <tr>
+                        <td>12/05</td>
+                        <td className="ingresos">Yamila Gartner, Manzana 2 Lote 16</td>
+                        <td>25.000</td>
+                        <td></td>
+                        <td>1.114.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
