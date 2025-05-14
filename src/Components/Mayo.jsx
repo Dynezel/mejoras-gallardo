@@ -81,6 +81,13 @@ export default function Mayo() {
                         <td></td>
                         <td>1.202.000</td>
                     </tr>
+                    <tr>
+                        <td>13/05</td>
+                        <td className="ingresos">Graciela Almiron, Manzana 1 Lote 17</td>
+                        <td>25.000</td>
+                        <td></td>
+                        <td>1.227.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
