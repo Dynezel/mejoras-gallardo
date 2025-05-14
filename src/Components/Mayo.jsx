@@ -95,6 +95,13 @@ export default function Mayo() {
                         <td></td>
                         <td>1.252.000</td>
                     </tr>
+                    <tr>
+                        <td>14/05</td>
+                        <td className="egresos">Pago del Camion de Piedras</td>
+                        <td></td>
+                        <td>810.000</td>
+                        <td>442.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
