@@ -96,23 +96,31 @@ export default function Mayo() {
                         <td>1.252.000</td>
                     </tr>
                     <tr>
+                        <td>15/05</td>
+                        <td className="ingresos">Cristina, Manzana 28 Lote 27</td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>1.272.000</td>
+                    </tr>
+                    <tr>
                         <td>14/05</td>
                         <td className="egresos">Pago del Camion de Piedras</td>
                         <td></td>
                         <td>810.000</td>
-                        <td>442.000</td>
+                        <td>462.000</td>
                     </tr>
                     <tr>
                         <td>15/05</td>
                         <td className="egresos">Pago de la Maquina</td>
                         <td></td>
                         <td>350.000</td>
-                        <td>92.000</td>
+                        <td>112.000</td>
                     </tr>
+                    
                     <tr>
                         <td>15/05</td>
-                        <td className="ingresos">Cristina, Manzana 28 Lote 27</td>
-                        <td>20.000</td>
+                        <td className="total">Saldo a Favor</td>
+                        <td></td>
                         <td></td>
                         <td>112.000</td>
                     </tr>
