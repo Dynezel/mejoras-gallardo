@@ -21,6 +21,9 @@ export default function Navbar() {
         if(mes == "/mayo") {
             navigate(mes)
         }
+        if(mes == "/junio") {
+            navigate(mes)
+        }
 
     }
     
@@ -32,6 +35,7 @@ export default function Navbar() {
             <option value="/marzo" className='enlace-resumen'> Resumen del Mes de Marzo </option>
             <option value="/abril" className='enlace-resumen'> Resumen del Mes de Abril </option>
             <option value="/mayo" className='enlace-resumen'> Resumen del Mes de Mayo</option>
+            <option value="/junio" className='enlace-resumen'> Resumen del Mes de Junio</option>
             </select>
         </nav>
     )

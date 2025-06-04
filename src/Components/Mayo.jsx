@@ -116,13 +116,26 @@ export default function Mayo() {
                         <td>350.000</td>
                         <td>112.000</td>
                     </tr>
-                    
                     <tr>
                         <td>15/05</td>
                         <td className="total">Saldo a Favor</td>
                         <td></td>
                         <td></td>
                         <td>112.000</td>
+                    </tr>
+                    <tr>
+                        <td>22/05</td>
+                        <td className="ingresos">Johanna Paola Mayhua, Manzana 11, Lotes 7 y 9</td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>162.000</td>
+                    </tr>
+                    <tr>
+                        <td>30/05</td>
+                        <td className="total">TOTAL MAYO</td>
+                        <td></td>
+                        <td></td>
+                        <td className="total">162.000</td>
                     </tr>
                 </tbody>
             </table>
