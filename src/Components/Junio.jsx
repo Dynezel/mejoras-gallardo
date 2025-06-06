@@ -41,6 +41,15 @@ export default function Junio() {
                         <td></td>
                         <td>262.000</td>
                     </tr>
+                    <tr>
+                        <td>05/06</td>
+                        <td className="ingresos">
+                            Victoria Rojas, Manzana 3 Lote 7
+                        </td>
+                        <td>25.000</td>
+                        <td></td>
+                        <td>287.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
